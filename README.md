@@ -1,4 +1,4 @@
-# ASR_Cinema_Ticket_Reservation
+# ASR Cinema Ticket Reservation System
 
 ## Description
 This repo contains the code used to create an IVR using VoiceXML for a cinema ticket reservation system within the scope of the Automatic Speech Recognition course.  
